@@ -1,2 +1,2 @@
-# plugin-widget-keyvaluelist
-@status-board/plugin-widget-keyvaluelist
+# plugin-widget-key-value-list
+@status-board/plugin-widget-key-value-list
